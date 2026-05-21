@@ -1,4 +1,3 @@
-# polvilhopingodeouro
 # Polvilhos Pingo de Ouro 🌾
 
 Uma landing page estática, moderna e responsiva desenvolvida para a **Polvilhos Pingo de Ouro**. O site tem como foco a captação de clientes B2B (indústrias, fábricas e food service), apresentando a qualidade da lavoura, os diferenciais logísticos e o catálogo de produtos (Polvilho Azedo, Polvilho Doce e Mandioca Amarela).
